@@ -11,7 +11,7 @@ Un componente funcional: maneja logica y se renderiza en la UI, puede gestionar 
 ## Props en react y su proposito ##
 Los props son propiedades los que permiten pasar datos de un componente a otro, la informacion solo va del componente padre al componente hijo, su proposito es hacer de los componentes mas dinamicos y reutilizables 
 
-## Que son los childrenprops y porque no usarlos tanto?##
+## Que son los childrenprops y porque no usarlos tanto? ##
 Es una condicion especial que le permite a los props reicibir informacion de otros componentes, no se recomienda usar tantos ya que impactan la lectura facil de los documentos ya que cada vez se hace mas dificil seguir la estructura de arbol que se crea.
 
 ## Que es useState en React y su principal uso ##
